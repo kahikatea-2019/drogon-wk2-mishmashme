@@ -19,3 +19,4 @@ server.use(express.urlencoded({ extended: false }))
 
 // Routing
 server.use('/', router) 
+

@@ -18,4 +18,4 @@ server.use(express.static('public'))
 server.use(express.urlencoded({ extended: false }))
 
 // Routing
-server.use('/', router)
+server.use('/', router) 

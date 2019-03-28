@@ -7,7 +7,14 @@
     "image2":"/images/kanyeBody.jpg",
     "image3":"/images/kanyeLegs.jpg"
 
-  }
+  },
+  {
+    "id": 2,
+    "name": "Borat",
+    "image":"/images/boratHead.jpg",
+    "image2":"/images/boratBody.jpg",
+    "image3":"/images/boratLegs.jpg"
 
+  }
   ]
 }

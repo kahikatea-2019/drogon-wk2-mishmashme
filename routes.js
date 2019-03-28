@@ -6,6 +6,13 @@ const router = express.Router()
 module.exports = router
 
 router.get('/', (req, res) => {
-  res.render('layouts/main')
+  res.render('partials/home')
 })
 
+router.post('/', (req, res) => {
+  const inputData = req.body
+  // res.send(inputData)
+  if (inputData.Celeb === 'Kanye') {
+    res.redirect('/')
+  }
+})

@@ -1,1 +1,13 @@
-[{}]
+{ 
+  "celebs": [
+  {
+    "id": 1,
+    "name": "Kanye",
+    "image":"/images/kanyeHead.jpg",
+    "image2":"/images/kanyeBody.jpg",
+    "image3":"/images/kanyeLegs.jpg"
+
+  }
+
+  ]
+}

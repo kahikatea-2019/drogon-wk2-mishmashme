@@ -6,5 +6,6 @@ const router = express.Router()
 module.exports = router
 
 router.get('/', (req, res) => {
-  res.send('hey yall')
+  res.render('layouts/main')
 })
+

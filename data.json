@@ -11,15 +11,15 @@
   {
     "id": 2,
     "name": "Borat",
-    "image1":"/images/boratHead.jpg",
+    "image1":"/images/kanyeHead.jpg",
     "image2":"/images/boratBody.jpg",
     "image3":"/images/boratLegs.jpg"
 
   },
   {
     "id": 3,
-    "name": "Lisa Simpson",
-    "image1":"/images/lisaHead.jpg",
+    "name": "Lisa",
+    "image1":"/images/kanyeHead.jpg",
     "image2":"/images/lisaBody.jpg",
     "image3":"/images/lisaLegs.jpg"
 
@@ -27,7 +27,7 @@
   {
     "id": 4,
     "name": "Arnold",
-    "image1":"/images/arnoldHead.jpg",
+    "image1":"/images/kanyeHead.jpg",
     "image2":"/images/arnoldBody.jpg",
     "image3":"/images/arnoldLegs.jpg"
 
@@ -35,7 +35,7 @@
   {
     "id": 5,
     "name": "Barney",
-    "image1":"/images/barneyHead.jpg",
+    "image1":"/images/kanyeHead.jpg",
     "image2":"/images/barneyBody.jpg",
     "image3":"/images/barneyLegs.jpg"
 
@@ -43,7 +43,7 @@
   {
     "id": 6,
     "name": "Bowie",
-    "image1":"/images/bowieHead.jpg",
+    "image1":"/images/kanyeHead.jpg",
     "image2":"/images/bowieBody.jpg",
     "image3":"/images/bowieLegs.jpg"
 

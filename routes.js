@@ -9,10 +9,14 @@ router.get('/', (req, res) => {
   res.render('partials/home')
 })
 
+router.get('/results', (req, res) => {
+  res.render('partials/results')
+})
+
 router.post('/', (req, res) => {
   const inputData = req.body
   // res.send(inputData)
   if (inputData.Celeb === 'Kanye') {
-    res.redirect('/')
+    res.redirect('/results')
   }
 })
